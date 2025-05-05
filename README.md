@@ -1,3 +1,7 @@
+# Advice Generator
+
+A simple ReactJS app that fetches random advice using the Advice Slip API. Built with Vite for fast performance. Users can click a button to receive new advice. Clean UI, responsive design, and API integration using Axios. Ideal for learning basic React, API usage, and deploying with Vercel.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
